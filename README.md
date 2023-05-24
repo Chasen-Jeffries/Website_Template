@@ -12,7 +12,7 @@ You can view my personal website using this template here:
 ## Initial Steps:
 1.	Access your Github account by creating a new one or logging in.
 2.	Duplicate this repository (https://github.com/Chasen-Jeffries/Website_Template) to your own account (github.com/username/Website_Template) by forking it.
-3.	Go to the settings of your repository and under the pages tab, publish your website. 
+3.	Go to the settings tab of your repository and click the pages tab. Then publish your website. 
 4.	Make changes to the files within your repository.
 5.	Visit your website to view live website at: https://username.github.io/Website_Template to see the changes.
 
